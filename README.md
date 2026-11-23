@@ -36,5 +36,5 @@
 ## Connect With Me
 
 - *LinkedIn:* www.linkedin.com/in/shambhavi-singh-744801430
-- *GitHub:* https://github.com/18ShambhaviSingh-glitch
+- *GitHub:* https://github.com/18ShambhaviSingh
 - *Email:* 18.shambhaviSingh@gmail.com
